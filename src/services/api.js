@@ -1,5 +1,5 @@
 const API_KEY = "6e612b1d";
-const BASE_URL = "http://www.omdbapi.com/";
+const BASE_URL = "https://www.omdbapi.com/";
 
 export const getPopularMovies = async () => {
   // Using a broad search query to get a variety of movies

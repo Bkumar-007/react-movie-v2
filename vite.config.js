@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react"
 
 export default defineConfig({
   plugins: [react()],
-  base: "/react-movie-v2/"
+  // base: "/react-movie-v2/"
 })
